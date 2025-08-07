@@ -11,7 +11,7 @@
 <p align="center"><strong>🚀┃Como usar o script:</strong></p>
 
 <p align="center">
-  É muito simples: copie o código abaixo, cole na barra de favoritos do navegador<br>
+  É muito simples: copie o código abaixo, cole na barra de favoritos do navegador <br>
   e execute enquanto estiver no site wplace.live
 </p>
 
@@ -20,7 +20,7 @@
 ### 🎯┃Auto-Farm
 
 ```js
-javascript:fetch("https://raw.githubusercontent.com/DarkModde/WPlace-AutoBOT/refs/heads/main/Auto-Farm.js").then(t=>t.text()).then(eval);
+javascript:fetch("https://raw.githubusercontent.com/cthelegend/auto-farm-wplace/refs/heads/main/Auto-Farm.js").then(t=>t.text()).then(eval);
 ```
 
 > [!IMPORTANT]
