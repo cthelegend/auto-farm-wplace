@@ -9,7 +9,7 @@
       secondary: '#111111',
       accent: '#222222',
       text: '#ffffff',
-      highlight: '#775ce3',
+      highlight: '#0073ff',
       success: '#00ff00',
       error: '#ff0000'
     }
@@ -274,7 +274,7 @@
 
     const translations = {
       pt: {
-        title: "WPlace Auto-Farm",
+        title: "Auto-Farm by: cris15k",
         start: "Iniciar",
         stop: "Parar",
         ready: "Pronto para começar",
@@ -284,7 +284,7 @@
         level: "Level"
       },
       en: {
-        title: "WPlace Auto-Farm",
+        title: "Auto-Farm by: cris15k",
         start: "Start",
         stop: "Stop",
         ready: "Ready to start",
